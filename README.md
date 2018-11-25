@@ -3,7 +3,7 @@
 An e-commerce Node application that takes in user/customer orders from the command line
 
 ## Step-by-step Guide:
-
+![](images/1.png)
 
 
 ## Technoligies Used
