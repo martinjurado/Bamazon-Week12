@@ -1,1 +1,14 @@
-# Bamazon-Week12
+# Bamazon App
+## Function:
+An e-commerce Node application that takes in user/customer orders from the command line
+
+## Step-by-step Guide:
+
+
+
+## Technoligies Used
+1. Node
+2. MYSQL 
+3. NPM Packages
+- MYSQl
+- Inquirer 
