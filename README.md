@@ -4,7 +4,7 @@ An e-commerce Node application that takes in user/customer orders from the comma
 
 ## Step-by-step Guide:
 ![](images/1.png)
-
+1. When user hits command line 'node bamazonCustomer.js' , it prompts the user to shop or not. Product catalog shows up as well.
 
 ## Technoligies Used
 1. Node
